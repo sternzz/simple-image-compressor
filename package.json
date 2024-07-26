@@ -1,0 +1,16 @@
+{
+  "name": "sharp-image-optimizer",
+  "version": "0.0.1",
+  "description": "optimize images for the web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "astrix",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sharp": "^0.32.3"
+  }
+}
